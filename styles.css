@@ -1,12 +1,12 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: #f4f4f4;
+    background-color: #205c23;
     padding: 20px;
     margin: 0;
 }
 h1 {
     text-align: center;
-    color: #555;
+    color: #83ff5e;
 }
 form {
     max-width: 600px;
